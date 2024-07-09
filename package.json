@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "node-fetch": "^2.6.1",
-    "ws": "^8.13.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@babel/core": "^7.21.8",
@@ -54,7 +54,7 @@
     "@panter/vue-i18next": "^0.15.2",
     "@vue/eslint-config-standard": "^6.1.0",
     "ajv": "^8.12.0",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^9.1.2",
     "babel-plugin-component": "^1.1.1",
@@ -67,13 +67,13 @@
     "css-loader": "^6.7.3",
     "css-minimizer-webpack-plugin": "^5.0.0",
     "del": "^6.1.1",
-    "electron": "^22.3.9",
+    "electron": "^22.3.25",
     "electron-builder": "^24.4.0",
     "electron-devtools-installer": "^3.2.0",
     "electron-is": "^3.0.0",
     "electron-log": "^4.4.8",
     "electron-store": "^8.1.0",
-    "electron-updater": "^6.1.0",
+    "electron-updater": "^6.2.1",
     "element-ui": "^2.15.13",
     "eslint": "^7.32.0",
     "eslint-friendly-formatter": "^4.0.1",
